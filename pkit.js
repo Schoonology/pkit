@@ -87,7 +87,6 @@ function pRequest(options) {
           if (response.headers['content-type'].slice(0, 16) === 'application/json') {
             try {
               response.body = JSON.parse(buf)
-              console.log(response.body)
             } catch (e) {
               e.response = response
               deferred.reject(e)
