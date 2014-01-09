@@ -1,0 +1,14 @@
+{
+  "name": "pkit",
+  "version": "0.1.0",
+  "description": "A library of commonly-needed promise shims.",
+  "main": "pkit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "when": "~2.7.1"
+  }
+}
