@@ -1,6 +1,6 @@
 {
   "name": "pkit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A library of commonly-needed promise shims.",
   "main": "pkit.js",
   "scripts": {
